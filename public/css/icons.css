@@ -1,0 +1,14 @@
+.actions{
+    background: #242063;
+}
+.actions{
+    padding: 6px;
+    color: #FFF;
+    text-decoration: none;
+    font-size: 1em;
+    margin: 0px 2px;
+}
+.actions:hover{
+    text-decoration: none;
+    color: #FFF;
+}
